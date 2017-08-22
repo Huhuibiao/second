@@ -7,7 +7,7 @@ public class Test {
 
     int x=9;
     public int sum(int i,int j){
-        return x+y;
+        return i+j;
     }
     public static void main(String[] args) {
 
