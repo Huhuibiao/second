@@ -6,6 +6,9 @@ package test;
 public class Test {
 
     int x=9;
+    public int sum(int i,int j){
+        return x+y;
+    }
     public static void main(String[] args) {
 
     }
